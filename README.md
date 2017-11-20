@@ -37,6 +37,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Money Talking
 - More or Less: Behind the Stats
 - Mystery Show
+- Note to Self
 - The New Yorker: Politics and More
 - NPR Politics Podcast
 - On the Media
