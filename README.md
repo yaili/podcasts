@@ -4,9 +4,10 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 
 - 50 Things That Made the Modern Economy
 - 99% Invisible
+- A Responsive Web Design Podcast
 - Accused
 - THE ADAM BUXTON PODCAST
-- A Responsive Web Design Podcast
+- Atlanta Monster
 - The Big Web Show
 - BLACK HANDS - A family mass murder
 - Body on the Moor
@@ -18,6 +19,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Design Details
 - Design Matters with Debbie Millman 
 - Design Notes
+- DesignBetter.Co: Design great products
 - Dirty John
 - Exponent
 - Filmspotting
@@ -38,6 +40,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - More or Less: Behind the Stats
 - Mystery Show
 - The New Yorker: Politics and More
+- No, You Go
 - NPR Politics Podcast
 - On the Media
 - Parliament Explained
@@ -48,6 +51,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Radiolab
 - Radiolab Presents: More Perfect
 - Reply All
+- Rocketship.fm
 - Roderick on the Line
 - S-Town
 - Serial
@@ -67,8 +71,9 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - UK True Crime Podcast
 - Undisclosed
 - Untold: The Daniel Morgan Murder
+- Up and Vanished
 - The Vanished Podcast
 - The Web Ahead
-- Up and Vanished
+- The West Wing Weekly
 - What Trump Can Teach Us About Con Law
 - Where Should We Begin? with Esther Perel
