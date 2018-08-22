@@ -7,11 +7,13 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - A Responsive Web Design Podcast
 - Accused
 - THE ADAM BUXTON PODCAST
+- Ask a Manager
 - Atlanta Monster
 - The Big Web Show
 - BLACK HANDS - A family mass murder
 - Body on the Moor
 - The Bugle
+- Canadian True Crime
 - Casefile True Crime
 - Comedy Election 
 - Creative Playdate
@@ -26,14 +28,17 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Filmspotting: Streaming Video Unit (SVU)
 - Friday Night Comedy from BBC Radio 4
 - The Generation Why Podcast
+- Getting Curious with Jonathan Van Ness
 - The Guardian’s Audio Long Reads
 - The Guilty Feminist
 - Here’s The Thing with Alec Baldwin
 - High Resolution
+- How to be Less Old
 - In the Dark
 - Inside Intercom Podcast
 - Let’s Make Mistakes
 - The Longest Shortest Time
+- Microsoft Cloud Show
 - The Mind of a Murdered
 - Modern Love
 - Money Talking
@@ -54,6 +59,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Rocketship.fm
 - Roderick on the Line
 - S-Town
+- Safe For Work
 - Serial
 - ShopTalk
 - Slate’s Serial Spoiler Specials
@@ -66,10 +72,13 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Sworn
 - They Walk Among Us - UK True Crime
 - This American Life
+- True Crime Garage
+- Trump, Inc.
 - Truth & Justice
 - Twice Removed
 - UK True Crime Podcast
-- Undisclosed
+- ~~Undisclosed~~
+- ~~Unsolved Murders: True Crime Stories~~
 - Untold: The Daniel Morgan Murder
 - Up and Vanished
 - The Vanished Podcast
