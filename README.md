@@ -18,14 +18,17 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Comedy Election 
 - Creative Playdate
 - Criminal
+- Dear Sugars
 - Design Details
 - Design Matters with Debbie Millman 
 - Design Notes
 - DesignBetter.Co: Design great products
 - Dirty John
+- Dr. Death
 - Exponent
 - Filmspotting
 - Filmspotting: Streaming Video Unit (SVU)
+- Forever35
 - Friday Night Comedy from BBC Radio 4
 - The Generation Why Podcast
 - Getting Curious with Jonathan Van Ness
@@ -36,10 +39,11 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - How to be Less Old
 - In the Dark
 - Inside Intercom Podcast
+- Keep It!
 - Let’s Make Mistakes
 - The Longest Shortest Time
 - Microsoft Cloud Show
-- The Mind of a Murdered
+- The Mind of a Murderer
 - Modern Love
 - Money Talking
 - More or Less: Behind the Stats
@@ -61,6 +65,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - S-Town
 - Safe For Work
 - Serial
+- Serial Killers
 - ShopTalk
 - Slate’s Serial Spoiler Specials
 - Slate’s Spoiler Specials
@@ -84,5 +89,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - The Vanished Podcast
 - The Web Ahead
 - The West Wing Weekly
+- What Did You Do?!
 - What Trump Can Teach Us About Con Law
 - Where Should We Begin? with Esther Perel
+- Who? Weekly
