@@ -18,14 +18,14 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Comedy Election 
 - Creative Playdate
 - Criminal
-- Dear Sugars
+- Dear Sugars [cancelled]
 - Design Details
 - Design Matters with Debbie Millman 
 - Design Notes
 - DesignBetter.Co: Design great products
 - Dirty John
 - Dr. Death
-- Exponent
+- Exponent [cancelled]
 - Filmspotting
 - Filmspotting: Streaming Video Unit (SVU)
 - Forever35
@@ -62,7 +62,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Reply All
 - Rocketship.fm
 - Roderick on the Line
-- S-Town
+- S-Town [finished]
 - Safe For Work
 - Serial
 - Serial Killers
