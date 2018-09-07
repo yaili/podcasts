@@ -2,9 +2,9 @@
 
 Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to recommend a podcast for me to listen to.
 
-- 50 Things That Made the Modern Economy
+- 50 Things That Made the Modern Economy [finished]
 - 99% Invisible
-- A Responsive Web Design Podcast
+- A Responsive Web Design Podcast [long pause]
 - Accused
 - THE ADAM BUXTON PODCAST
 - Ask a Manager
@@ -15,7 +15,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - The Bugle
 - Canadian True Crime
 - Casefile True Crime
-- Comedy Election 
+- Comedy Election [finished]
 - Creative Playdate
 - Criminal
 - Dear Sugars [cancelled]
@@ -27,7 +27,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Dr. Death
 - Exponent [cancelled]
 - Filmspotting
-- Filmspotting: Streaming Video Unit (SVU)
+- Filmspotting: Streaming Video Unit (SVU) [cancelled]
 - Forever35
 - Friday Night Comedy from BBC Radio 4
 - The Generation Why Podcast
@@ -40,25 +40,25 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - In the Dark
 - Inside Intercom Podcast
 - Keep It!
-- Let’s Make Mistakes
+- Let’s Make Mistakes [long pause]
 - The Longest Shortest Time
 - Microsoft Cloud Show
-- The Mind of a Murderer
+- The Mind of a Murderer [finished?]
 - Modern Love
 - Money Talking
 - More or Less: Behind the Stats
-- Mystery Show
+- Mystery Show [long pause]
 - The New Yorker: Politics and More
 - No, You Go
 - NPR Politics Podcast
 - On the Media
-- Parliament Explained
+- Parliament Explained [finished?]
 - Planet Money
 - Political Thinking with Nick Robinson 
 - Presentable
-- Radical Candor
+- Radical Candor [finished?]
 - Radiolab
-- Radiolab Presents: More Perfect
+- Radiolab Presents: More Perfect [long pause]
 - Reply All
 - Rocketship.fm
 - Roderick on the Line
@@ -67,27 +67,27 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Serial
 - Serial Killers
 - ShopTalk
-- Slate’s Serial Spoiler Specials
+- Slate’s Serial Spoiler Specials [finished or long pause?]
 - Slate’s Spoiler Specials
-- Snapped
-- Someone Knows Something
-- Style Guide Podcast
+- Snapped [long pause?]
+- Someone Knows Something [long pause?]
+- Style Guide Podcast [long pause]
 - Sword and Scale
 - Sword and Scale Rewind
-- Sworn
+- Sworn [long pause]
 - They Walk Among Us - UK True Crime
 - This American Life
 - True Crime Garage
 - Trump, Inc.
 - Truth & Justice
-- Twice Removed
+- Twice Removed [finished?]
 - UK True Crime Podcast
 - ~~Undisclosed~~
 - ~~Unsolved Murders: True Crime Stories~~
-- Untold: The Daniel Morgan Murder
+- ~~Untold: The Daniel Morgan Murder~~
 - Up and Vanished
 - The Vanished Podcast
-- The Web Ahead
+- The Web Ahead [long pause]
 - The West Wing Weekly
 - What Did You Do?!
 - What Trump Can Teach Us About Con Law
