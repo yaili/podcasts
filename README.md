@@ -87,12 +87,12 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - ~~Undisclosed~~
 - ~~Unsolved Murders: True Crime Stories~~
 - ~~Untold: The Daniel Morgan Murder~~
-- ˜˜Up and Vanished˜˜
-- ˜˜The Vanished Podcast˜˜
+- ~~Up and Vanished~~
+- ~~The Vanished Podcast~~
 - Voice of Design
 - The Web Ahead [long pause]
 - The West Wing Weekly
 - What Did You Do?!
 - What Trump Can Teach Us About Con Law
 - Where Should We Begin? with Esther Perel
-- ˜˜Who? Weekly˜˜
+- ~~Who? Weekly~~
