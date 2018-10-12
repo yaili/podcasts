@@ -4,7 +4,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 
 - 50 Things That Made the Modern Economy [finished]
 - 99% Invisible
-- A Responsive Web Design Podcast [long pause]
+- A Responsive Web Design Podcast [long hiatus]
 - Accused
 - THE ADAM BUXTON PODCAST
 - Ask a Manager
@@ -40,14 +40,16 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - In the Dark
 - Inside Intercom Podcast
 - Keep It!
-- Let’s Make Mistakes [long pause]
+- Let’s Make Mistakes [on hiatus]
 - The Longest Shortest Time
+- My Favorite Murder with Karen Kilgariff and Georgia Hardstark
 - Microsoft Cloud Show
 - The Mind of a Murderer [finished?]
 - Modern Love
 - Money Talking
 - More or Less: Behind the Stats
-- Mystery Show [long pause]
+- Mystery Show [on hiatus]
+- Natch Beaut
 - The New Yorker: Politics and More
 - No, You Go
 - NPR Politics Podcast
@@ -58,7 +60,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Presentable
 - Radical Candor [finished?]
 - Radiolab
-- Radiolab Presents: More Perfect [long pause]
+- Radiolab Presents: More Perfect [on hiatus]
 - Reply All
 - Rocketship.fm
 - Roderick on the Line
@@ -67,14 +69,14 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Serial
 - Serial Killers
 - ShopTalk
-- Slate’s Serial Spoiler Specials [finished or long pause?]
+- Slate’s Serial Spoiler Specials [finished or on hiatus?]
 - Slate’s Spoiler Specials
-- Snapped [long pause?]
-- Someone Knows Something [long pause?]
-- Style Guide Podcast [long pause]
+- Snapped [on hiatus?]
+- Someone Knows Something [on hiatus?]
+- Style Guide Podcast [on hiatus]
 - Sword and Scale
 - Sword and Scale Rewind
-- Sworn [long pause]
+- Sworn [on hiatus]
 - They Walk Among Us - UK True Crime
 - This American Life
 - True Crime Garage
@@ -85,11 +87,12 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - ~~Undisclosed~~
 - ~~Unsolved Murders: True Crime Stories~~
 - ~~Untold: The Daniel Morgan Murder~~
-- Up and Vanished
-- The Vanished Podcast
+- ˜˜Up and Vanished˜˜
+- ˜˜The Vanished Podcast˜˜
+- Voice of Design
 - The Web Ahead [long pause]
 - The West Wing Weekly
 - What Did You Do?!
 - What Trump Can Teach Us About Con Law
 - Where Should We Begin? with Esther Perel
-- Who? Weekly
+- ˜˜Who? Weekly˜˜
