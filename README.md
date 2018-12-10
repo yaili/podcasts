@@ -18,7 +18,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Comedy Election [finished]
 - Creative Playdate
 - Criminal
-- Dear Sugars [cancelled]
+- Dear Sugars [cancelled, re-runs]
 - Design Details
 - Design Matters with Debbie Millman 
 - Design Notes
@@ -35,6 +35,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - The Guardian’s Audio Long Reads
 - The Guilty Feminist
 - Here’s The Thing with Alec Baldwin
+- Hidden Brain
 - High Resolution
 - How to be Less Old
 - In the Dark
@@ -66,6 +67,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Roderick on the Line
 - S-Town [finished]
 - Safe For Work
+- Science Vs
 - Serial
 - Serial Killers
 - ShopTalk
@@ -74,6 +76,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Snapped [on hiatus?]
 - Someone Knows Something [on hiatus?]
 - Style Guide Podcast [on hiatus]
+- Subnet
 - Sword and Scale
 - Sword and Scale Rewind
 - Sworn [on hiatus]
@@ -92,6 +95,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Voice of Design
 - The Web Ahead [long pause]
 - The West Wing Weekly
+- Wireframe
 - What Did You Do?!
 - What Trump Can Teach Us About Con Law
 - Where Should We Begin? with Esther Perel
