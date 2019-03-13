@@ -6,6 +6,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - 99% Invisible
 - A Responsive Web Design Podcast [long hiatus]
 - Accused
+- Akimbo: A Podcast from Seth Godin
 - THE ADAM BUXTON PODCAST
 - Ask a Manager
 - Atlanta Monster
@@ -17,8 +18,9 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Casefile True Crime
 - Comedy Election [finished]
 - Creative Playdate
+- Crimes of Passion
 - Criminal
-- Dear Sugars [cancelled, re-runs]
+- Dear Sugars [re-runs]
 - Design Details
 - Design Matters with Debbie Millman 
 - Design Notes
@@ -32,6 +34,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Friday Night Comedy from BBC Radio 4
 - The Generation Why Podcast
 - Getting Curious with Jonathan Van Ness
+- The Guardian UK: Politics Weekly
 - The Guardian’s Audio Long Reads
 - The Guilty Feminist
 - Here’s The Thing with Alec Baldwin
@@ -52,7 +55,6 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Mystery Show [on hiatus]
 - Natch Beaut
 - The New Yorker: Politics and More
-- No, You Go
 - NPR Politics Podcast
 - On the Media
 - Parliament Explained [finished?]
@@ -63,6 +65,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Radiolab
 - Radiolab Presents: More Perfect [on hiatus]
 - Reply All
+- Rework
 - Rocketship.fm
 - Roderick on the Line
 - S-Town [finished]
@@ -75,6 +78,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Slate’s Spoiler Specials
 - Snapped [on hiatus?]
 - Someone Knows Something [on hiatus?]
+- Strong Feelings
 - Style Guide Podcast [on hiatus]
 - Subnet
 - Sword and Scale
@@ -91,6 +95,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - ~~Unsolved Murders: True Crime Stories~~
 - ~~Untold: The Daniel Morgan Murder~~
 - ~~Up and Vanished~~
+- Up First
 - ~~The Vanished Podcast~~
 - Voice of Design
 - The Web Ahead [long pause]
