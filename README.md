@@ -9,10 +9,11 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Akimbo: A Podcast from Seth Godin
 - THE ADAM BUXTON PODCAST
 - Ask a Manager
-- Atlanta Monster
+- ~~Atlanta Monster~~
 - The Big Web Show
 - BLACK HANDS - A family mass murder
-- Body on the Moor
+- ~~Body on the Moor~~
+- Brexitcast
 - The Bugle
 - Canadian True Crime
 - Casefile True Crime
@@ -21,13 +22,14 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Crimes of Passion
 - Criminal
 - Dear Sugars [re-runs]
+- Design Better Podcast
 - Design Details
 - Design Matters with Debbie Millman 
 - Design Notes
-- DesignBetter.Co: Design great products
 - Dirty John
+- Dogs and the City
 - Dr. Death
-- Exponent [cancelled]
+- Exponent
 - Filmspotting
 - Filmspotting: Streaming Video Unit (SVU) [cancelled]
 - Forever35
@@ -36,26 +38,29 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Getting Curious with Jonathan Van Ness
 - The Guardian UK: Politics Weekly
 - The Guardian’s Audio Long Reads
+- The Guardian's Brexit Means…
 - The Guilty Feminist
 - Here’s The Thing with Alec Baldwin
 - Hidden Brain
 - High Resolution
 - How to be Less Old
-- In the Dark
+- ~~In the Dark~~
 - Inside Intercom Podcast
 - Keep It!
 - Let’s Make Mistakes [on hiatus]
 - The Longest Shortest Time
-- My Favorite Murder with Karen Kilgariff and Georgia Hardstark
+- Making Obama
+- Man In The Window
 - Microsoft Cloud Show
 - The Mind of a Murderer [finished?]
 - Modern Love
 - Money Talking
 - More or Less: Behind the Stats
+- My Favorite Murder with Karen Kilgariff and Georgia Hardstark
 - Mystery Show [on hiatus]
 - Natch Beaut
 - The New Yorker: Politics and More
-- NPR Politics Podcast
+- The NPR Politics Podcast
 - On the Media
 - Parliament Explained [finished?]
 - Planet Money
@@ -74,21 +79,22 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Serial
 - Serial Killers
 - ShopTalk
+- The Shrink Next Door
 - Slate’s Serial Spoiler Specials [finished or on hiatus?]
 - Slate’s Spoiler Specials
 - Snapped [on hiatus?]
-- Someone Knows Something [on hiatus?]
+- ~~Someone Knows Something~~
 - Strong Feelings
 - Style Guide Podcast [on hiatus]
-- Subnet
-- Sword and Scale
-- Sword and Scale Rewind
-- Sworn [on hiatus]
+- Subnet [finished]
+- ~~Sword and Scale~~
+- ~~Sword and Scale Rewind~~
+- ~~Sworn~~
 - They Walk Among Us - UK True Crime
 - This American Life
 - True Crime Garage
 - Trump, Inc.
-- Truth & Justice
+- ~~Truth & Justice~~
 - Twice Removed [finished?]
 - UK True Crime Podcast
 - ~~Undisclosed~~
@@ -100,8 +106,8 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Voice of Design
 - The Web Ahead [long pause]
 - The West Wing Weekly
-- Wireframe
 - What Did You Do?!
 - What Trump Can Teach Us About Con Law
 - Where Should We Begin? with Esther Perel
 - ~~Who? Weekly~~
+- Wireframe
