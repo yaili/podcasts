@@ -7,28 +7,31 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - A Responsive Web Design Podcast [long hiatus]
 - Accused
 - Akimbo: A Podcast from Seth Godin
+- All Killa No Filla
 - THE ADAM BUXTON PODCAST
 - Ask a Manager
 - ~~Atlanta Monster~~
 - The Big Web Show
-- BLACK HANDS - A family mass murder
+- BLACK HANDS - A family mass murder [finished?]
 - ~~Body on the Moor~~
 - Brexitcast
 - The Bugle
+- Bézier
 - Canadian True Crime
 - Casefile True Crime
 - Comedy Election [finished]
 - Creative Playdate
 - Crimes of Passion
 - Criminal
+- The David McWilliams Podcast
 - Dear Sugars [re-runs]
 - Design Better Podcast
 - Design Details
 - Design Matters with Debbie Millman 
 - Design Notes
-- Dirty John
+- Dirty John [finished?]
 - Dogs and the City
-- Dr. Death
+- Dr. Death 
 - Exponent
 - Filmspotting
 - Filmspotting: Streaming Video Unit (SVU) [cancelled]
@@ -43,7 +46,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Here’s The Thing with Alec Baldwin
 - Hidden Brain
 - High Resolution
-- How to be Less Old
+- How to be Less Old [finished?]
 - ~~In the Dark~~
 - Inside Intercom Podcast
 - Keep It!
@@ -54,11 +57,12 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Microsoft Cloud Show
 - The Mind of a Murderer [finished?]
 - Modern Love
+- Mom Brain
 - Money Talking
 - More or Less: Behind the Stats
 - My Favorite Murder with Karen Kilgariff and Georgia Hardstark
 - Mystery Show [on hiatus]
-- Natch Beaut
+- ~~Natch Beaut~~
 - The New Yorker: Politics and More
 - The NPR Politics Podcast
 - On the Media
@@ -76,7 +80,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - S-Town [finished]
 - Safe For Work
 - Science Vs
-- Serial
+- Serial [finished?]
 - Serial Killers
 - ShopTalk
 - The Shrink Next Door
@@ -111,3 +115,4 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Where Should We Begin? with Esther Perel
 - ~~Who? Weekly~~
 - Wireframe
+- You're Wrong About
