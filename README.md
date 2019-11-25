@@ -115,4 +115,4 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Where Should We Begin? with Esther Perel
 - ~~Who? Weekly~~
 - Wireframe
-- You're Wrong About
+- ~~You're Wrong About~~
