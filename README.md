@@ -5,7 +5,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - 50 Things That Made the Modern Economy [finished]
 - 99% Invisible
 - A Responsive Web Design Podcast [long hiatus]
-- Accused
+- ~~Accused~~
 - Akimbo: A Podcast from Seth Godin
 - All Killa No Filla
 - THE ADAM BUXTON PODCAST
@@ -52,9 +52,9 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Keep It!
 - Let’s Make Mistakes [on hiatus]
 - The Longest Shortest Time
-- Making Obama
+- Making Obama now Making Beyoncé
 - Man In The Window
-- Microsoft Cloud Show
+- ~~Microsoft Cloud Show~~
 - The Mind of a Murderer [finished?]
 - Modern Love
 - Mom Brain
@@ -96,7 +96,9 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - ~~Sworn~~
 - They Walk Among Us - UK True Crime
 - This American Life
+- True Crime Finland
 - True Crime Garage
+- ~~True Crime Sweden~~
 - Trump, Inc.
 - ~~Truth & Justice~~
 - Twice Removed [finished?]
