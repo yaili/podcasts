@@ -50,7 +50,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - ~~In the Dark~~
 - Inside Intercom Podcast
 - Keep It!
-- Let’s Make Mistakes [on hiatus]
+- Let’s Make Mistakes
 - The Longest Shortest Time
 - Making Obama now Making Beyoncé
 - Man In The Window
@@ -84,7 +84,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Serial Killers
 - ShopTalk
 - The Shrink Next Door
-- Slate’s Serial Spoiler Specials [finished or on hiatus?]
+- Slate’s Serial Spoiler Specials [finished]
 - Slate’s Spoiler Specials
 - Snapped [on hiatus?]
 - ~~Someone Knows Something~~
