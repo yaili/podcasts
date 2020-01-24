@@ -16,7 +16,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - ~~Body on the Moor~~
 - Brexitcast
 - The Bugle
-- Bézier
+- ~~Bézier~~
 - Canadian True Crime
 - Casefile True Crime
 - Comedy Election [finished]
@@ -28,14 +28,14 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Design Better Podcast
 - Design Details
 - Design Matters with Debbie Millman 
-- Design Notes
+- Design Notes Podcast from Google Design
 - Dirty John [finished?]
 - Dogs and the City
 - Dr. Death 
 - Exponent
 - Filmspotting
 - Filmspotting: Streaming Video Unit (SVU) [cancelled]
-- Forever35
+- ~~Forever35~~
 - Friday Night Comedy from BBC Radio 4
 - The Generation Why Podcast
 - Getting Curious with Jonathan Van Ness
@@ -52,12 +52,12 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Keep It!
 - Let’s Make Mistakes
 - The Longest Shortest Time
-- Making Obama now Making Beyoncé
+- Making Obama, now Making Beyoncé
 - Man In The Window
 - ~~Microsoft Cloud Show~~
 - The Mind of a Murderer [finished?]
 - Modern Love
-- Mom Brain
+- ~~Mom Brain~~
 - Money Talking
 - More or Less: Behind the Stats
 - My Favorite Murder with Karen Kilgariff and Georgia Hardstark
@@ -71,7 +71,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Political Thinking with Nick Robinson 
 - Presentable
 - Radical Candor [finished?]
-- Radiolab
+- ~~Radiolab~~
 - Radiolab Presents: More Perfect [on hiatus]
 - Reply All
 - Rework
@@ -96,7 +96,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - ~~Sworn~~
 - They Walk Among Us - UK True Crime
 - This American Life
-- True Crime Finland
+- ~~True Crime Finland~~
 - True Crime Garage
 - ~~True Crime Sweden~~
 - Trump, Inc.
