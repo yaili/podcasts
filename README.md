@@ -14,7 +14,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - The Big Web Show
 - BLACK HANDS - A family mass murder [finished?]
 - ~~Body on the Moor~~
-- Brexitcast
+- Brexitcast, now Newscast, now The Coronavirus Newscast
 - The Bugle
 - ~~Bézier~~
 - Canadian True Crime
