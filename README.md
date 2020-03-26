@@ -7,9 +7,9 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - A Responsive Web Design Podcast [long hiatus]
 - ~~Accused~~
 - Akimbo: A Podcast from Seth Godin
-- All Killa No Filla
+- ~~All Killa No Filla~~
 - THE ADAM BUXTON PODCAST
-- Ask a Manager
+- Ask a Manager [finished]
 - ~~Atlanta Monster~~
 - The Big Web Show
 - BLACK HANDS - A family mass murder [finished?]
@@ -20,6 +20,8 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Canadian True Crime
 - Casefile True Crime
 - Comedy Election [finished]
+- Coronavirus Daily (NPR)
+- Coronavirus Update 24/7 (BBC Radio)
 - Creative Playdate
 - Crimes of Passion
 - Criminal
@@ -88,14 +90,14 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Slate’s Spoiler Specials
 - Snapped [on hiatus?]
 - ~~Someone Knows Something~~
-- Strong Feelings
+- Strong Feelings [on hiatus]
 - Style Guide Podcast [on hiatus]
 - Subnet [finished]
 - ~~Sword and Scale~~
 - ~~Sword and Scale Rewind~~
 - ~~Sworn~~
 - They Walk Among Us - UK True Crime
-- This American Life
+- ~~This American Life~~
 - ~~True Crime Finland~~
 - True Crime Garage
 - ~~True Crime Sweden~~
@@ -111,7 +113,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - ~~The Vanished Podcast~~
 - Voice of Design
 - The Web Ahead [long pause]
-- The West Wing Weekly
+- The West Wing Weekly [finished]
 - What Did You Do?!
 - What Trump Can Teach Us About Con Law
 - Where Should We Begin? with Esther Perel
