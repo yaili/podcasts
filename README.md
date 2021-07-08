@@ -43,6 +43,7 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Presentable
 - Reply All
 - Rocketship.fm
+- Sem Moderação
 - Serial Killers
 - ShopTalk
 - Shrine Of Duty
