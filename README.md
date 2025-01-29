@@ -5,62 +5,53 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 ## Active
 - 10-Minute Tech Comm
 - THE ADAM BUXTON PODCAST
-- API The Docs Podcast
 - The Audio Long Read
-- BLACK HANDS - A family mass murder
 - The Bugle
 - Casefile True Crime
-- The Clearleft Podcast
-- Creative Elements
+- Coaching for Leaders
+- Como Assim
+- Crimes of the Times
 - Criminal
-- Design Details
+- The Daily
 - Design Notes
-- Dogs and the City
-- Exponent
-- Filmspotting- Radical Candor
+- Eixo do Mal
+- The Ezra Klein Show
+- Favas Contadas
+- Filmspotting
 - Friday Night Comedy from BBC Radio 4
-- Get It Out of Your System
 - Getting Curious with Jonathan Van Ness
+- Good Inside with Dr. Becky
 - The Guilty Feminist
 - Here’s The Thing with Alec Baldwin
 - Hidden Brain
-- I'd Rather Be Writing Podcast
-- Inimigo Público
-- Inside Intercom Podcast
 - Keep It!
-- Let’s Make Mistakes
+- The Knowledge Project with Shane Parrish
+- Lenny's Podcast: Product | Growth | Career
 - More or Less: Behind the Stats
+- My Unsung Hero
 - Newscast
 - The NPR Politics Podcast
-- Obsessed With...
+- The Oh Crap! Potty Training Podcast
 - On the Media
 - P24
-- Planet Money
 - Poder Público
 - Political Thinking with Nick Robinson 
-- Politics Weekly
-- Precisamos de Falar (Podcast)
-- Presentable
+- Politics Weekly America
+- Politics Weekly UK
+- Renascença - Extremamente Desagradável
+- Renascença - Seja o que Deus Quiser
 - Reply All
 - Rocketship.fm
-- Sem Moderação
+- Safe For Work
 - Serial Killers
-- ShopTalk
-- Shrine Of Duty
-- The Shrink Next Door
-- Slate’s Spoiler Specials
-- Smashing Podcast
-- Strong Feelings
-- They Walk Among Us - UK True Crime
+- Shrine Podcasts
+- Somos Todos Malucos
+- Soundbite
 - True Crime Garage
-- Trump, Inc.
 - UK True Crime Podcast
-- Up First
-- Voice of Design
-- What Did You Do?!
-- What Trump Can Teach Us About Con Law
+- Up First from NPR
+- The West Wing Weekly
 - Where Should We Begin? with Esther Perel
-- Wireframe
 - Writers in Tech
 
 ## Finished or on hiatus
@@ -68,24 +59,45 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Agora, agora e mais agora [finished]
 - Ask a Manager [finished]
 - The Big Web Show [hiatus]
-- Coronavirus Daily (NPR) [finished?]
-- Coronavirus Update 24/7 (BBC Radio) [finished?]
-- Covid Confidential [finished?]
+- BLACK HANDS - A family mass murder [finished?]
+- The Chernobyl Podcast [finished]
+- The Clearleft Podcast [hiatus]
+- Coronavirus Update UK [finished]
 - Creative Playdate [hiatus]
+- Design and Whine [finished?]
+- DesignOps Island Discs [finished?]
+- Dogs and the City [finished?]
 - Dirty John [finished?]
+- Everything Has Changed [finished]
+- Exponent [hiatus]
 - Filmspotting: Streaming Video Unit (SVU) [cancelled]
+- Get It Out of Your System [finished?]
 - The Guardian's Brexit Means… [finished?]
 - High Resolution [finished?]
+- Inimigo Público [finished?]
+- Let’s Make Mistakes [finished?]
 - The Longest Shortest Time [finished]
 - Mystery Show [finished?]
+- Não Mandas Em Mim [finished?]
+- Obsessed With... [finished?]
 - Parliament Explained [finished?]
+- PodOps [hiatus]
+- Precisamos de Falar (Podcast) [finished?]
+- Presentable [finished?]
 - Prognosis: Doubt [finished]
 - Radiolab Presents: More Perfect [on hiatus]
 - A Responsive Web Design Podcast [hiatus]
 - Safe For Work [finished?]
 - Serial [finished?]
-- Slate’s Serial Spoiler Specials [finished]
+- The Shrink Next Door [finished?]
+- Slate’s Spoiler Specials [finished?]
+- Smashing Podcast [hiatus?]
+- Strong Feelings [hiatus?]
 - Style Guide Podcast [on hiatus]
 - Subnet [finished]
-- The Web Ahead [hiatus]
-- The West Wing Weekly [finished]
+- Things Fell Apart [hiatus?]
+- Trump, Inc. [finished?]
+- TSF - Sem Moderação - Podcast [finished?]
+- Voice of Design [finished?]
+- The Web Ahead [hiatus?]
+- What Did You Do?! [hiatus?]
