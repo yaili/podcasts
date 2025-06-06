@@ -19,7 +19,6 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - Favas Contadas
 - Filmspotting
 - Friday Night Comedy from BBC Radio 4
-- Getting Curious with Jonathan Van Ness
 - Good Inside with Dr. Becky
 - The Guilty Feminist
 - Here’s The Thing with Alec Baldwin
