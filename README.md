@@ -50,7 +50,6 @@ Submit an [issue](https://github.com/yaili/podcasts/issues/new) if you'd like to
 - UK True Crime Podcast
 - Up First from NPR
 - The West Wing Weekly
-- Where Should We Begin? with Esther Perel
 - Writers in Tech
 
 ## Finished or on hiatus
